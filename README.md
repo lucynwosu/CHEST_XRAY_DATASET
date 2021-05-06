@@ -1,5 +1,5 @@
 # CHEST_XRAY_DATASET
-A dataset of 6500 chest xray images that can be used for classification OR lung segmentation tasks. 
+A dataset of 6500 chest xray images out of which 517 has covid-19. These images can be used for classification OR lung segmentation tasks. 
 </br>
 The dataset contains original chest xray images with thier corresponding annotation image that can be used as ground truth. 
 1. all-images-annotation-masks, contains 6500 segmented mask images
